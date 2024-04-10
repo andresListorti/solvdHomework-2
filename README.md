@@ -4,7 +4,7 @@ Here is my submission for Homework 2 for the Node.js Course offered by Solvd.lab
 
 GitHub Repository: https://github.com/andresListorti/solvdHomework-2
 
-I kindly request your feedback before I proceed to send it to Mihael.
+I look forward to your feedback
 
 Thank you very much. 
 
